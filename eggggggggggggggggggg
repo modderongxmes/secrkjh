@@ -1,0 +1,5 @@
+local args = {
+    [1] = "Fiery"
+}
+
+game:GetService("ReplicatedStorage").Events:FindFirstChild("Buy Pet"):FireServer(unpack(args))
