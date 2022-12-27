@@ -78,10 +78,10 @@ local Window = Library.CreateLib("SpezZs Fitness Simulator", "BloodTheme")
     local FitnessSimulatorSection = MAINMENU:NewSection("FitnessSimulator")
 
     FitnessSimulatorSection:NewButton("LiftAndCoins", "inf lift and sell", function()
-        loadstring(game:HttpGet(('https://pastebin.com/raw/WwM5j8bR'),true))()
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/modderongxmes/secrkjh/main/MsdAfghIfdN'),true))()
     end)
 
     FitnessSimulatorSection:NewButton("SpamBetsEgg", "just spam this when u have a lot of coins", function()
-        loadstring(game:HttpGet(('https://pastebin.com/raw/kwm8WEET'),true))()
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/modderongxmes/secrkjh/main/eggggggggggggggggggg'),true))()
     end)
 
